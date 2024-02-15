@@ -14,7 +14,7 @@
 
 ## Skills:
 - Programming Languages: C/C++, java,
-- Web Development: JAVA DSA
+  
 
 - ...
 
